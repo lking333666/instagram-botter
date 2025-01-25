@@ -15,18 +15,18 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
-   if account_name=="":
-     print('please input a real name')
+ account_name=input(">ah_heng_3666")
+   if account_name=="ah_heng_3666":
+     print('ah_heng_3666')
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
-   choose=input('> ')
-       if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+ print("");print("[1] - Likes ");print("ah_heng_3666");print("[2] - Views ");print("ah_heng_3666");print("[1] - Followers ");print("");
+   choose=input('>2000 ')
+       if choose=="2":
+          url=input('https://www.instagram.com/reel/DFBATIrzNL0/')
           if req.url==False:
-       print('cannot find the post')
+       print('https://www.instagram.com/reel/DFBATIrzNL0/')
           else: 
        accnum=1
             while True:
@@ -34,17 +34,17 @@ def __main__:
               accnum= accnum+1
        print(str(accnum) + " likes done ")
      else if choose="2":
-       url=input("please input your story url (need to be public and can be found on instagram's computer version")
+       url=input(".https://www.instagram.com/reel/DFBATIrzNL0/")
           if req.url==False:
        print('cannot find the story/account')
        else: 
-       req.url("https://www.instagram.com/stories/%account_name%/%url%/")
+       req.url(https://www.instagram.com/reel/DFBATIrzNL0/")
        req.new accounts 
              def __gen__:
                   acounts.new Instagrams (forViews) 
        else if choose=="3":
           print("welcome to the followers botter for Instagram") 
-              print("")
+              print("https://www.instagram.com/reel/DFBATIrzNL0/")
                   print("please donate $5 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
